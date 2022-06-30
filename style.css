@@ -30,6 +30,9 @@ header .logo{
     width: 100vw;
     padding: 10px;
 }
+.perfil img{
+    width: 75% !important;
+}
 .sobre{
     background-color: antiquewhite;
     border-radius: 1.25rem;
