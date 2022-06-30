@@ -26,11 +26,11 @@ header{
 header .logo{
     border: 3px outset black
 }
-aside{
+.text-sub{
     background-color:#2831D6;
-    height: 40px;
-    margin: auto;
     width: 100vw;
+    padding: 10px;
+
 }
 .sobre{
 
