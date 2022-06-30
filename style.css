@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #2831D6;
-    height: 100vh;
+    height: calc(100vh - 200px);
 }
 
 header{
