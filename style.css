@@ -5,7 +5,6 @@
 }
 
 body{
-
     background-image: url(img/fundoMain.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,7 +23,7 @@ header{
 }
 
 header .logo{
-    border: 3px solid black
+    border: 2px solid black
 }
 .text-sub{
     background-color:#2831D6;
@@ -33,7 +32,26 @@ header .logo{
 
 }
 .sobre{
+    background-color: antiquewhite;
+    border-radius: 1.25rem;
+    box-shadow: 5px 4px 11px -1px rgba(0,0,0,0.52);
+    font-size: 1.1rem;
+    font-weight: 500;
+}
 
+.reto{
+    align-self: flex-start;
+    width: 10px;
+    height: 70px; 
+    margin:  0 10px;
+    background-color: #FC97BE;
+}
+.deitado{
+    align-self: flex-end;
+    width: 10px;
+    height: 70px; 
+    margin: 0px 10px 0 10px ;
+    background-color: #FC97BE;
 }
 .orcamento{
     background-image: url(img/fundoHeader.jpeg);
