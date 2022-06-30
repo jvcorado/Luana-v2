@@ -22,7 +22,6 @@ header{
     align-items: center;
     justify-content: center;
 }
-
 aside{
     background-color:#2831D6;
     height: 40px;
@@ -44,7 +43,6 @@ aside{
     padding: 10px;
     border-radius: 1.875rem;
 }
-
 .redes img{
     width: 1.9rem;
     margin: 0.625rem;
