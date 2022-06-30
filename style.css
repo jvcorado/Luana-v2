@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #2831D6;
-    height: calc(100vh - 200px);
+    height: calc(100vh - 100px);
 }
 
 header{
@@ -24,7 +24,7 @@ header{
 }
 
 header .logo{
-    border: 3px outset black
+    border: 3px solid black
 }
 .text-sub{
     background-color:#2831D6;
