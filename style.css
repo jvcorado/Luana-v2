@@ -32,7 +32,7 @@ aside{
 .orcamento{
     background-image: url(img/fundoHeader.jpeg);
     background-color: #2831D6;
-    width: 31.25rem;
+    width: 100%;
     height: 9.375rem;
     border-radius: 1.875rem;
     box-shadow: -4px 4px 11px -1px rgba(0,0,0,0.52);
@@ -46,7 +46,7 @@ aside{
 }
 
 .redes img{
-    width: 2.25rem;
+    width: 1.9rem;
     margin: 0.625rem;
 }
 .barra{
