@@ -9,15 +9,17 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #2831D6;
-    height: calc(100vh - 6.25rem);
+    height: 100vh;
 }
 
 header{
+    background-image: url(img/fundoHeader.jpeg);
     width: 100vw;
-    height: 6.25rem;
-
-    background-color: #37d628;
+    height: auto;
+    padding: 1rem;
+    background-color: #2831D6;
     background-size: auto;
+    margin-bottom: 1rem;
 }
 
 header .logo{
