@@ -6,10 +6,9 @@
 
 body{
     background-image: url(img/fundoMain.jpeg);
-    background-repeat: no-repeat;
     background-size: cover;
     background-color: #2831D6;
-    height: calc(100vh);
+    height:100vh;
 }
 
 header{
