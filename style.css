@@ -22,6 +22,10 @@ header{
     background-size: auto;
     margin-bottom: 1rem;
 }
+
+header .logo{
+    border: 3px outset black
+}
 aside{
     background-color:#2831D6;
     height: 40px;
@@ -35,20 +39,20 @@ aside{
     background-image: url(img/fundoHeader.jpeg);
     background-color: #2831D6;
     background-repeat: no-repeat;
-
     height: 9.5rem;
     border-radius: 1.875rem;
     box-shadow: -4px 4px 11px -1px rgba(0,0,0,0.52);
+    padding: 15px;
 }
 .sub-orcamento{
     background-color: #2831D6;
-    width:90%;
+    width:98%;
     height: 9rem;
-    padding: 10px;
     border-radius: 1.875rem;
+    border: 3px outset black
 }
 .redes img{
-    width: 1.9rem;
+    width: 2.4rem;
     margin: 0.625rem;
 }
 .barra{
